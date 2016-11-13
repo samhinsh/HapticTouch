@@ -1,6 +1,7 @@
 # HapticTouch
 Code for my Virtual Reality Haptic Touch project
 --
+![Alt text](leap.png?raw=true "leap")
 
 ## Setup ##
 
